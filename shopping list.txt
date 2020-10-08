@@ -4,3 +4,4 @@ vegetables
 fruits
 ice creams
 cool drinks
+cereals
